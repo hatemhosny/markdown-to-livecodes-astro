@@ -10,7 +10,7 @@ export default defineConfig({
       [
         remarkLivecodes,
         {
-          /* options */
+          appUrl: "https://dev.livecodes.io",
         },
       ],
     ],
